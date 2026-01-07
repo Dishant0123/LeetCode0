@@ -4,3 +4,4 @@ var createCounter = function(n) {
         return count++;
     };
 };
+// This is day 2 for javascript from LeetCode
